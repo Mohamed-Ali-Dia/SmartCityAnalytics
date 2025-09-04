@@ -1,0 +1,3 @@
+zone_id,zone_name,zone_type,population,area_km2,district
+Z_A,Centre,COMMERCIAL,50000,12.5,District1
+Z_B,Aéroport,INDUSTRIAL,30000,20.0,District2

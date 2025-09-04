@@ -1,0 +1,4 @@
+event_id,sensor_id,timestamp,vehicle_count,avg_speed,traffic_density,incident_type
+TE_1,S_002,20250715081500,120,35.0,MEDIUM,NONE
+TE_2,S_002,20250715183000,600,12.0,CRITICAL,JAM
+TE_3,S_001,20250715120000,50,45.0,LOW,NONE
