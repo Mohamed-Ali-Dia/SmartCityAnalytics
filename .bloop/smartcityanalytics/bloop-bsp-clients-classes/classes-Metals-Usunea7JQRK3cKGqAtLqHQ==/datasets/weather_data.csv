@@ -1,4 +1,0 @@
-reading_id,sensor_id,timestamp,temperature,humidity,pressure,wind_speed,rainfall
-WR_1,S_001,20250715080000,32.5,55.0,1008.0,12.0,0.0
-WR_2,S_001,20250715190000,39.2,40.0,1005.0,18.0,0.0
-WR_3,S_003,20250715073000,28.0,60.0,1009.0,10.0,0.0
